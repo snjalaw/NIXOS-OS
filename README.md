@@ -3,8 +3,7 @@
 
   # Elsabeth Eyayu | BDU1601363
   NIXOS installation and ftruncate() system call implementation
-## Table of Contents
-
+## Table of contents
 - [Introduction](#introduction)
 - [Objectives](#objectives)
 - [Requirements](#requirements)
@@ -17,6 +16,6 @@
 - [Future Outlook / Recommendations](#future-outlook--recommendations)
 - [Virtualization in Modern Operating Systems](#virtualization-in-modern-operating-systems)
 - [Virtualization in NixOS](#virtualization-in-nixos)
-- [Implementing ftruncate()](#Implementing-ftruncate())
+- [Implementing ftruncate()](#implementing-ftruncate)
 
 
