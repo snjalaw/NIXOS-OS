@@ -13,9 +13,8 @@
 - [File System Support](#file-system-support)
 - [Advantages and Disadvantages](#advantages-and-disadvantages)
 - [Conclusion](#conclusion)
-- [Future Outlook / Recommendations](#future-outlook--recommendations)
+- [Future Outlook / Recommendations](#future-outlook-recommendations)
 - [Virtualization in Modern Operating Systems](#virtualization-in-modern-operating-systems)
 - [Virtualization in NixOS](#virtualization-in-nixos)
 - [Implementing ftruncate()](#implementing-ftruncate)
-
-
+[system call.c](./system%20call.c)
