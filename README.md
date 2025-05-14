@@ -18,5 +18,5 @@
 - [Virtualization in Modern Operating Systems](#virtualization-in-modern-operating-systems)
 - [Virtualization in NixOS](#virtualization-in-nixos)
 - [Implementing ftruncate()](#Implementing-ftruncate())
-- [system call](#system-call)
+- [System call](#system-call)
 
